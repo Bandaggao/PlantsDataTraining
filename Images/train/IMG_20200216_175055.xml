@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YellowGreen</folder>
+	<filename>IMG_20200216_175055.jpg</filename>
+	<path>C:\Users\BAN\Desktop\Projects\PersonalProjects\TF\Tensor\models\research\object_detection\images\plants\Ornamental\YellowGreen\IMG_20200216_175055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yellow and green leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>322</ymin>
+			<xmax>397</xmax>
+			<ymax>691</ymax>
+		</bndbox>
+	</object>
+</annotation>

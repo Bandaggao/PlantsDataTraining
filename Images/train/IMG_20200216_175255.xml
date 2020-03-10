@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bastondesanjose</folder>
+	<filename>IMG_20200216_175255.jpg</filename>
+	<path>C:\Users\BAN\Desktop\Projects\PersonalProjects\TF\Tensor\models\research\object_detection\images\plants\Ornamental\Bastondesanjose\IMG_20200216_175255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Baston de san jose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>199</ymin>
+			<xmax>385</xmax>
+			<ymax>784</ymax>
+		</bndbox>
+	</object>
+</annotation>

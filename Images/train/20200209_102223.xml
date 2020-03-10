@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Aloevera</folder>
+	<filename>20200209_102223.jpg</filename>
+	<path>C:\Users\BAN\Desktop\Projects\PersonalProjects\TF\Tensor\models\research\object_detection\images\plants\Aloevera\20200209_102223.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aloevera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>87</ymin>
+			<xmax>676</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

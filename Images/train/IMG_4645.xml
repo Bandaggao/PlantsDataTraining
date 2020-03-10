@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Insulin</folder>
+	<filename>IMG_4645.JPG</filename>
+	<path>C:\Users\BAN\Desktop\Projects\PersonalProjects\TF\Tensor\models\research\object_detection\images\plants\Insulin\IMG_4645.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Insulin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>84</ymin>
+			<xmax>770</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
